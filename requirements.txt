@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pandas
+scikit-learn
+matplotlib
+seaborn
+evidently
+numpy
+statistics
+scipy
